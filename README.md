@@ -9,7 +9,10 @@ To run, you'll need to:
 - [ ] pull down the forked repo locally
 - [ ] open Terminal and `cd` to project directory
 - [ ] run `npm install`
-- [ ] create a .env file that looks something like:
+- [ ] create a free mlab account https://mlab.com/
+- [ ] create a free sandbox project on Mlab
+- [ ] create a user for the sandbox project
+- [ ] create a .env file in your project's root directly that looks something like:
 ```
 MLAB_URI=ds153304.mlab.com:53304/project
 DB_USER=username
